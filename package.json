@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "leaflet": "^1.4.0",
+    "leaflet-routing-machine": "^3.2.12",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-leaflet": "^2.2.1",
     "react-scripts": "3.0.0"
   },
   "scripts": {
